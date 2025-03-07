@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "255XX6L74T.ponder.Ponder",
+        "paths": ["/posts/*"]
+      }
+    ]
+  }
+}
